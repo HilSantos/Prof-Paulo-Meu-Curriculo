@@ -9,17 +9,18 @@
       </head>
       <body>
         
-        <!-- Paragrafo -->
-         <p>
+<!-- Paragrafo -->
+<p>
           Hilton Luis Silva Santos
           Tv. Sergipe, 29 - Bº Campos Eliseos, Ribeirão Preto/SP, Tel./Whats: (16)99403-7928
-          hilvatos@hotmail.com
+          hilvatos@hotmail.com / https://www.linkedin.com/in/hilton-santos-8246a71a2/
+https://github.com/HilSantos
         </br>
           Meu SITE
          </p>
 
          <!-- Titulo -->
-         <h2>OBJETIVO</h2>
+<h2>OBJETIVO</h2>
          Trabalhar em uma empresa conceituada somando forças com o desenvolvimento da mesma.
          <hr>
          
@@ -87,6 +88,6 @@ Ensino Medio completo
 
 
 
-    </head>
+</head>
 
 </html>
