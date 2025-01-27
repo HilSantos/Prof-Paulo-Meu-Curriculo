@@ -13,7 +13,7 @@
 <p>
           Hilton Luis Silva Santos
           Tv. Sergipe, 29 - Bº Campos Eliseos, Ribeirão Preto/SP, Tel./Whats: (16)99403-7928
-          hilvatos@hotmail.com / https://www.linkedin.com/in/hilton-santos-8246a71a2/
+          hilvatos@hotmail.com / https://www.linkedin.com/in/hilton-santos-8246a71a2/ / 
 https://github.com/HilSantos
         </br>
           Meu SITE
